@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640451172650",
+    "project_id": "flutter-edu-managment-app",
+    "storage_bucket": "flutter-edu-managment-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640451172650:android:0b8835e6a33909d2be2653",
+        "android_client_info": {
+          "package_name": "com.flutter_edu_managment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640451172650-fhqeocu18fib4939jhe7oi3lnnntajjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter_edu_managment_app",
+            "certificate_hash": "3462339075cea8e2f9889de86dfe1575e7963de8"
+          }
+        },
+        {
+          "client_id": "640451172650-qkfdd6saia9q8hro6eqq48akd086fd5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcCEwMEGYecxfEaIYt40GAEIvhQaewYcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640451172650-qkfdd6saia9q8hro6eqq48akd086fd5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
